@@ -1,4 +1,4 @@
----
+---Confirmation​of​Changing​Customer​
 items:
  - 18F/development-guide
  - cfpb/open-source-checklist
